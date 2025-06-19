@@ -7,8 +7,7 @@ body {
   line-height: 1.6;
 }
 #presentation{
-	text-align : left;
-	text-justify : distribute;
+	text-align : justify;	
 }
 
 header {
@@ -34,13 +33,14 @@ section {
   margin-right: auto;
   background: white;
   padding: 20px;
+  padding-top : 3px;
   border-radius: 8px;
   box-shadow: 0 0 8px rgba(0,0,0,0.1);
 }
 
 h2 {
   color: #2980b9;
-  margin-bottom: 15px;
+  margin-bottom: 5px;
   border-bottom: 2px solid #2980b9;
   padding-bottom: 5px;
 }
@@ -51,7 +51,7 @@ h3 {
 }
 
 ul {
-  list-style-type: disc;
+  list-style-type: square;
   padding-left: 20px;
 }
 
