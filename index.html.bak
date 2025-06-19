@@ -13,7 +13,7 @@
   </header>
 
   <section id="presentation">
-    <h2>✨ Qui suis-je ?</h2>
+    <h2>Présentation</h2>
 	<p>
 	Étudiant en BUT Génie Industriel et Maintenance dans les Hauts-de-France, je me forme aux enjeux techniques et humains de l'industrie. Curieux, rigoureux et attiré par la résolution de problèmes concrets, je m’investis pleinement dans des projets mêlant automatisme, maintenance préventive et analyse de systèmes. À travers ce portfolio, je souhaite valoriser les compétences que j’ai développées et trouver une opportunité (stage ou alternance) pour les mettre en pratique sur le terrain.
 	</p>
@@ -45,6 +45,7 @@
 	<article>
       <h3>TD - Optimisation de l'épaisseur et de la longueur d'une conduite en fonction du coût</h3>
 	  <p>Utilisation d'Excel pour l'optimisation de systèmes, projection des prix, estimation des pertes calorifiques. </p>
+	  <a href = ""> En savoir plus </a>
     </article>
   </section>
 
