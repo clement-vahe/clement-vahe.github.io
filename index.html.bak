@@ -12,9 +12,9 @@
     <p>Étudiant en BUT 2 Génie Industriel et Maintenance</p>
   </header>
 
-  <section id="presentation">
+  <section>
     <h2>👤Présentation</h2>
-	<p>
+	<p id="presentation">
 	Étudiant en BUT Génie Industriel et Maintenance à Saint-Omer, je me forme aux enjeux techniques et humains de l'industrie. Curieux,
 	rigoureux et attiré par la résolution de problèmes concrets, je m’investis pleinement dans des projets mêlant automatisme, maintenance préventive
 	et analyse de systèmes. À travers ce portfolio, je souhaite valoriser les compétences que j’ai développées et trouver une opportunité (alternance)
@@ -32,13 +32,12 @@
       <li>Utilisation d'Excel</li>
     </ul>
   </section>
-
   <section id="projets">
     <h2>💼 Projets</h2>
     <article>
       <h3>GIM'Eole 2024-2025</h3>
        <p>Résolution de problèmes, optimisation du temps, suivi de projet, Etude du foncitonnement d'une éolienne et optimisation de la production électrique</p>
-	   <a href = "https://gimeole.unistra.fr/concours/">Lien du concours</a>
+	   <a href = "https://gimeole.unistra.fr/concours/" target = "_blank">Lien du concours</a>
     </article>
     <article>
       <h3>Stage - Remise en service d'un banc d'étude de desctruction</h3>
