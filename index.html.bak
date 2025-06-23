@@ -8,63 +8,61 @@
 </head>
 <body>
   <header>
-    <h1>Clément Vahe</h1>
-    <p>Étudiant en BUT 2 Génie Industriel et Maintenance</p>
+    <h1>Clément VAHE</h1>
+    <p>Étudiant en BUT Génie Industriel et Maintenance</p>
   </header>
 
-  <section>
-    <h2>👤Présentation</h2>
-	<p id="presentation">
-	Étudiant en BUT Génie Industriel et Maintenance à Saint-Omer, je me forme aux enjeux techniques et humains de l'industrie. Curieux,
-	rigoureux et attiré par la résolution de problèmes concrets, je m’investis pleinement dans des projets mêlant automatisme, maintenance préventive
-	et analyse de systèmes. À travers ce portfolio, je souhaite valoriser les compétences que j’ai développées et trouver une opportunité (alternance)
-	pour les mettre en pratique sur le terrain.
-	</p>
-
+  <section id="presentation">
+    <h2>✨ Qui suis-je ?</h2>
+    <p>Étudiant en BUT Génie Industriel et Maintenance dans les Hauts-de-France, je me forme aux enjeux techniques et humains de l'industrie. Curieux, rigoureux et attiré par la résolution de problèmes concrets, je m’investis pleinement dans des projets mêlant automatisme, maintenance préventive et analyse de systèmes. À travers ce portfolio, je souhaite valoriser les compétences que j’ai développées et trouver une opportunité (stage ou alternance) pour les mettre en pratique sur le terrain.</p>
   </section>
 
   <section id="competences">
     <h2>🔧 Compétences</h2>
     <ul>
-      <li>Etude des pannes </li>
-      <li>Rédaction de gammes de montage/démontage</li>
-      <li>Optimisation de production</li>
-      <li>Utilisation d'Excel</li>
+		<li>Résolution de problèmes</li>
+		<li>Rédaction de gammes de montage/démontages</li>
+		<li>Optimisation de production </li>
+		<li>Utilisation d'Excel pour l'optimisation</li>
+      
     </ul>
   </section>
+
   <section id="projets">
     <h2>💼 Projets</h2>
     <article>
-      <h3>GIM'Eole 2024-2025</h3>
-       <p>Résolution de problèmes, optimisation du temps, suivi de projet, Etude du foncitonnement d'une éolienne et optimisation de la production électrique</p>
-	   <a href = "https://gimeole.unistra.fr/concours/" target = "_blank">Lien du concours</a>
+      <h3>SAE 2.02 - Automatisation d'un convoyeur</h3>
+      <p>Programmation sous TIA Portal avec Grafcet, étude des capteurs/actionneurs, mise en service.</p>
     </article>
     <article>
-      <h3>Stage - Remise en service d'un banc d'étude de desctruction</h3>
-      <p>Organisation de la documentation, inventaire et tri des pièces, suivi de projet</p>
-	  <a href = ""> En savoir plus </a>
+      <h3>Stage - Maintenance préventive chez XYZ</h3>
+      <p>Réalisation de gammes de maintenance, mise à jour du parc GMAO, interventions sur lignes de production.</p>
     </article>
-	<article>
-      <h3>TD - Optimisation de l'épaisseur et de la longueur d'une conduite en fonction du coût</h3>
-	  <p>Utilisation d'Excel pour l'optimisation de systèmes, projection des prix, estimation des pertes calorifiques. </p>
-	  <a href = ""> En savoir plus </a>
+    <article id="gimeole">
+      <div class="texte">
+        <h3>GIM'Éole</h3>
+        <p>Résolution de problèmes, optimisation du temps, suivi de projet, Etude du fonctionnement d'une éolienne et optimisation de la production électrique.</p>
+      </div>
+      <div class="image">
+        <img src="PJS/GIMEOLE_douche.jpg" alt="Illustration du projet GIM'Éole">
+      </div>
     </article>
   </section>
 
   <section id="cv">
     <h2>📄 Mon CV</h2>
-    <p><a href="PJS/CV Clément VAHE.pdf">Télécharger mon CV (PDF)</a></p>
+    <p><a href="CV.pdf" download>Télécharger mon CV (PDF)</a></p>
   </section>
 
   <section id="contact">
     <h2>📧 Contact</h2>
-    <p>Email : <a href="mailto:clementvahe6@gmail.com">clementvahe6@gmail.com</a></p>
-    <p>LinkedIn : <a href="https://www.linkedin.com/in/cl%C3%A9ment-vahe-8445092b4/">Clément VAHE</a></p>
-	<p>Téléphone : 06 06 46 61 12</p>
+    <li>Email : <a href="mailto:clementvahe6@gmail.com.com">clementvahe6@gmail.com</a></li>
+	<li>LinkedIn : <a href="https://www.linkedin.com/in/cl%C3%A9ment-vahe-8445092b4/">Clément VAHE</a></li>
+    <li>Téléphone : 06 06 46 61 12</li>
   </section>
 
   <footer>
-    <p>Portfolio Clément VAHE</p>
+    <p>&copy; 2025 Prénom NOM - Portfolio BUT GIM</p>
   </footer>
 </body>
 </html>
