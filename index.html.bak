@@ -13,8 +13,11 @@
   </header>
 
   <section id="presentation">
-    <h2>✨ Qui suis-je ?</h2>
-    <p>Étudiant en BUT Génie Industriel et Maintenance dans les Hauts-de-France, je me forme aux enjeux techniques et humains de l'industrie. Curieux, rigoureux et attiré par la résolution de problèmes concrets, je m’investis pleinement dans des projets mêlant automatisme, maintenance préventive et analyse de systèmes. À travers ce portfolio, je souhaite valoriser les compétences que j’ai développées et trouver une opportunité (stage ou alternance) pour les mettre en pratique sur le terrain.</p>
+    <h2>👤Présentation</h2>
+    <p>Étudiant en BUT Génie Industriel et Maintenance dans les Hauts-de-France, je me forme aux enjeux techniques et humains de l'industrie.
+	Curieux, rigoureux et attiré par la résolution de problèmes concrets, je m’investis pleinement dans des projets mêlant automatisme, maintenance
+	préventive et analyse de systèmes. À travers ce portfolio, je souhaite valoriser les compétences que j’ai développées et trouver une opportunité
+	(alternance) pour les mettre en pratique sur le terrain.</p>
   </section>
 
   <section id="competences">
@@ -30,28 +33,30 @@
 
   <section id="projets">
     <h2>💼 Projets</h2>
-    <article>
-      <h3>SAE 2.02 - Automatisation d'un convoyeur</h3>
-      <p>Programmation sous TIA Portal avec Grafcet, étude des capteurs/actionneurs, mise en service.</p>
-    </article>
-    <article>
-      <h3>Stage - Maintenance préventive chez XYZ</h3>
-      <p>Réalisation de gammes de maintenance, mise à jour du parc GMAO, interventions sur lignes de production.</p>
-    </article>
-    <article id="gimeole">
+	<article id="gimeole">
       <div class="texte">
-        <h3>GIM'Éole</h3>
-        <p>Résolution de problèmes, optimisation du temps, suivi de projet, Etude du fonctionnement d'une éolienne et optimisation de la production électrique.</p>
+        <h3>GIM'Éole 2024 - 2025</h3>
+        <p>Résolution de problèmes, optimisation du temps, suivi d'un projet de groupe, Etude du fonctionnement d'une éolienne et optimisation de la production électrique.</p>
       </div>
       <div class="image">
         <img src="PJS/GIMEOLE_douche.jpg" alt="Illustration du projet GIM'Éole">
       </div>
+	</article>
+    <article id = "stage">
+      <h3>Remise en marche d'un banc d'étude de destruction  - Stage</h3>
+      <p>Inventaire des pièces, Rédaction des gammes de montages, Etude de la documentation, Création d'un interface de navigation sur Excel</p>
+    </article>
+    <article>
+      <h3>Optimisation de l'épaisseur d'isolant sur une conduite en fonction des pertes calorifiques et des coûts</h3>
+      <p>Utilisation d'Excel pour l'optimisation d'un système.</p>
+    </article>
+    
     </article>
   </section>
 
   <section id="cv">
     <h2>📄 Mon CV</h2>
-    <p><a href="CV.pdf" download>Télécharger mon CV (PDF)</a></p>
+    <p><a href="PJS/CV.pdf">Télécharger mon CV (PDF)</a></p>
   </section>
 
   <section id="contact">
