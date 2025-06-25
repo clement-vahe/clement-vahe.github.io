@@ -32,31 +32,49 @@
   </section>
 
   <section id="projets">
+  
     <h2>💼 Projets</h2>
 	<article id="gimeole">
-      <div class="texte">
-        <h3>GIM'Éole 2024 - 2025</h3>
-        <p>Résolution de problèmes, optimisation du temps, suivi d'un projet de groupe, Etude du fonctionnement d'une éolienne et optimisation de la production électrique.</p>
-      </div>
-      <div class="image">
-        <img src="PJS/GIMEOLE_douche.jpg" alt="Illustration du projet GIM'Éole">
-      </div>
+		<div class="texte">
+			<h3>GIM'Éole 2024 - 2025</h3>
+			<p>Résolution de problèmes, optimisation du temps, suivi d'un projet de groupe, Etude du fonctionnement d'une éolienne et optimisation de la production électrique.</p>
+		</div>
+		<div class="image">
+			<img src="PJS/GIMEOLE_douche.jpg" alt="Illustration du projet GIM'Éole">
+		</div>
+		<div class = "plus">
+			<p><a href =  "https://gimeole.unistra.fr/" target = "_blank">En savoir plus</a></p>
+		</div>
 	</article>
+	
     <article id = "stage">
-      <h3>Remise en marche d'un banc d'étude de destruction  - Stage</h3>
-      <p>Inventaire des pièces, Rédaction des gammes de montages, Etude de la documentation, Création d'un interface de navigation sur Excel</p>
-    </article>
-    <article>
-      <h3>Optimisation de l'épaisseur d'isolant sur une conduite en fonction des pertes calorifiques et des coûts</h3>
-      <p>Utilisation d'Excel pour l'optimisation d'un système.</p>
-    </article>
+		<div class = "texte">
+			<h3>Remise en marche d'un banc d'étude de destruction  - Stage</h3>
+			<p>Inventaire des pièces, Rédaction des gammes de montages, Etude de la documentation, Création d'un interface de navigation sur Excel</p>
+		</div>
+		
+		<div class = "plus">
+			<p><a href = "">En savoir plus</a></p>
+		</div>
+   </article>
+	
+    <article id = "excel">
+
+		<div class = "texte">  
+			<h3>Optimisation de l'épaisseur d'isolant sur une conduite en fonction des pertes calorifiques et des coûts</h3>
+			<p>Utilisation d'Excel pour l'optimisation d'un système. Création de macros Excel pour la mise en forme d'une feuille</p>
+		</div>
+
+		<div class = "plus">
+			<p><a href = "https://gimeole.unistra.fr/" target = "_blank">En savoir plus</a></p>
+		</div>
+	</article>
     
-    </article>
   </section>
 
   <section id="cv">
     <h2>📄 Mon CV</h2>
-    <p><a href="PJS/CV.pdf">Télécharger mon CV (PDF)</a></p>
+    <p><a href="PJS/CV Clément Vahe.pdf">Télécharger mon CV (PDF)</a></p>
   </section>
 
   <section id="contact">
