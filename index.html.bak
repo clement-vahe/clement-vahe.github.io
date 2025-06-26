@@ -40,13 +40,14 @@
 			<p>Résolution de problèmes, optimisation du temps, suivi d'un projet de groupe, Etude du fonctionnement d'une éolienne et optimisation de la production électrique.</p>
 		</div>
 		<div class="image">
-			<img src="PJS/GIMEOLE_douche.jpg" alt="Illustration du projet GIM'Éole">
+			<a href = "PJS/Eolienne.jpg"><img src="PJS/Eolienne.jpg" alt="Illustration du projet GIM'Éole" ></a>
 		</div>
 		<div class = "plus">
-			<p><a href =  "https://gimeole.unistra.fr/" target = "_blank">En savoir plus</a></p>
+			<p><a href =  "https://gimeole.unistra.fr/" target = "_blank">Lien vers le concours</a></p>
+			<p><a href =  "PJS/AFFICHE GIMEOLE (85 x 200 cm).pdf" target = "_blank">Affiche du projet (.pdf)</a></p>
 		</div>
 	</article>
-	
+
     <article id = "stage">
 		<div class = "texte">
 			<h3>Remise en marche d'un banc d'étude de destruction  - Stage</h3>
@@ -54,10 +55,10 @@
 		</div>
 		
 		<div class = "plus">
-			<p><a href = "">En savoir plus</a></p>
+			<p><a href = "">En savoir plus (rapport .pdf)</a></p>
 		</div>
    </article>
-	
+
     <article id = "excel">
 
 		<div class = "texte">  
@@ -69,7 +70,7 @@
 			<p><a href = "https://gimeole.unistra.fr/" target = "_blank">En savoir plus</a></p>
 		</div>
 	</article>
-    
+
   </section>
 
   <section id="cv">
@@ -85,7 +86,7 @@
   </section>
 
   <footer>
-    <p>&copy; 2025 Prénom NOM - Portfolio BUT GIM</p>
+    <p>2025 Prénom NOM - Portfolio</p>
   </footer>
 </body>
 </html>

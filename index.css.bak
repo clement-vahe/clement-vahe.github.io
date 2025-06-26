@@ -86,7 +86,8 @@ footer {
       flex: 1 1 10%;
     }
 #gimeole .image img {
-	  height : 300px;     
+	  height : 200px;     
 		width : auto;
       border-radius: 8px;
+	  padding-top : 20px;
     }
